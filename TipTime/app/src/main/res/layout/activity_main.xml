@@ -8,6 +8,173 @@
     android:padding="16dp"
     tools:context=".MainActivity">
 
+<!--    <com.google.android.material.textfield.TextInputLayout-->
+<!--        android:id="@+id/textField"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="@string/label">-->
+
+<!--        <com.google.android.material.textfield.TextInputEditText-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            tools:ignore="SpeakableTextPresentCheck,VisualLintTextFieldSize" />-->
+
+<!--    </com.google.android.material.textfield.TextInputLayout>-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/cost_of_service"-->
+<!--        android:layout_width="160dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="@string/cost_of_service"-->
+<!--        android:inputType="numberDecimal"-->
+<!--        android:minHeight="48dp"-->
+<!--        android:autofillHints="" >-->
+
+<!--        <ImageView-->
+<!--            android:id="@+id/icon_cost_of_service"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:importantForAccessibility="no"-->
+<!--            app:srcCompat="@drawable/ic_store" />-->
+
+<!--    </EditText>-->
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/cost_of_service_layout"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/cost_of_service"
+        app:startIconDrawable="@drawable/ic_store"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/cost_of_service"
+        app:layout_constraintBottom_toBottomOf="@id/cost_of_service" >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/cost_of_service"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:inputType="numberDecimal"
+            android:minHeight="48dp"
+            tools:ignore="TextContrastCheck" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="horizontal">-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/service_question"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="@string/how_was_the_service"-->
+<!--            android:drawableStart="@drawable/ic_service" />-->
+<!--    </LinearLayout>-->
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/icon_service_question"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:importantForAccessibility="no"
+            app:srcCompat="@drawable/ic_serve"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/service_question"
+            app:layout_constraintBottom_toBottomOf="@id/service_question"
+            tools:ignore="VisualLintBounds" />
+
+        <TextView
+            android:id="@+id/service_question"
+            style="@style/Widget.TipTime.TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/how_was_the_service"
+            app:layout_constraintStart_toEndOf="@id/icon_service_question"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <RadioGroup
+        android:id="@+id/tip_options"
+        android:checkedButton="@+id/option_twenty_percent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/option_twenty_percent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:text="@string/amazing_service" />
+
+        <RadioButton
+            android:id="@+id/option_eighteen_percent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:text="@string/good_service" />
+
+        <RadioButton
+            android:id="@+id/option_fifteen_percent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:text="@string/ok_service" />
+    </RadioGroup>
+
+<!--    <Switch-->
+<!--        android:id="@+id/round_up_switch"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:checked="true"-->
+<!--        android:minHeight="48dp"-->
+<!--        android:text="@string/round_up_tip"-->
+<!--        tools:ignore="UseSwitchCompatOrMaterialXml,VisualLintButtonSize" />-->
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/icon_round_up"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:importantForAccessibility="no"
+            app:srcCompat="@drawable/ic_round_up"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/round_up_switch"
+            app:layout_constraintBottom_toBottomOf="@id/round_up_switch" />
+
+        <com.google.android.material.switchmaterial.SwitchMaterial
+                android:id="@+id/round_up_switch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:minHeight="48dp"
+                android:text="@string/round_up_tip"
+                tools:ignore="MissingConstraints,UseSwitchCompatOrMaterialXml,VisualLintButtonSize" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <Button
+        android:id="@+id/calculate_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/calculate"
+        tools:ignore="VisualLintButtonSize" />
+
+    <TextView
+        android:id="@+id/tip_result"
+        style="@style/Widget.TipTime.TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tip_amount"
+        tools:text="Tip Amount: $10"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="48dp"
@@ -22,6 +189,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="@string/button"
+        android:textColor="#FFB74D"
         app:backgroundTint="@color/green" />
 
     <TextView
@@ -41,72 +209,5 @@
         android:contentDescription="@string/email_icon"
         android:drawableStart="@android:drawable/ic_dialog_email"
         app:backgroundTint="@color/blue_dark" />
-
-<!--    <EditText-->
-<!--        android:id="@+id/cost_of_service"-->
-<!--        android:layout_width="160dp"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:hint="@string/cost_of_service"-->
-<!--        android:inputType="numberDecimal"-->
-<!--        android:minHeight="48dp"-->
-<!--        android:autofillHints="" />-->
-
-<!--    <TextView-->
-<!--        android:id="@+id/service_question"-->
-<!--        android:layout_width="wrap_content"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:text="@string/how_was_the_service" />-->
-
-<!--    <RadioGroup-->
-<!--        android:id="@+id/tip_options"-->
-<!--        android:checkedButton="@+id/option_twenty_percent"-->
-<!--        android:layout_width="wrap_content"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:orientation="vertical">-->
-
-<!--        <RadioButton-->
-<!--            android:id="@+id/option_twenty_percent"-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:minHeight="48dp"-->
-<!--            android:text="@string/amazing_service" />-->
-
-<!--        <RadioButton-->
-<!--            android:id="@+id/option_eighteen_percent"-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:minHeight="48dp"-->
-<!--            android:text="@string/good_service" />-->
-
-<!--        <RadioButton-->
-<!--            android:id="@+id/option_fifteen_percent"-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:minHeight="48dp"-->
-<!--            android:text="@string/ok_service" />-->
-<!--    </RadioGroup>-->
-
-<!--    <Switch-->
-<!--        android:id="@+id/round_up_switch"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:checked="true"-->
-<!--        android:minHeight="48dp"-->
-<!--        android:text="@string/round_up_tip"-->
-<!--        tools:ignore="UseSwitchCompatOrMaterialXml,VisualLintButtonSize" />-->
-
-<!--    <Button-->
-<!--        android:id="@+id/calculate_button"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:text="@string/calculate"-->
-<!--        tools:ignore="VisualLintButtonSize" />-->
-
-<!--    <TextView-->
-<!--        android:id="@+id/tip_result"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:text="@string/tip_amount"-->
-<!--        tools:text="Tip Amount: $10"/>-->
 
 </LinearLayout>
