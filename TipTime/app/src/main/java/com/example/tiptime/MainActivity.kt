@@ -23,28 +23,28 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(R.layout.activity_main)
-        binding.calculateButton.setOnClickListener { calculateTip() }
+//        binding.calculateButton.setOnClickListener { calculateTip() }
     }
-    @SuppressLint("StringFormatInvalid")
-    private fun calculateTip() {
-        val stringInTextField = binding.costOfService.text.toString()
-        if (stringInTextField.isEmpty()) {
-            binding.tipResult.text = ""
-            return
-        }
-        val cost = stringInTextField.toDouble()
-        val tipPercentage = when (binding.tipOptions.checkedRadioButtonId) {
-            R.id.option_twenty_percent -> 0.20
-            R.id.option_eighteen_percent -> 0.18
-            else -> 0.15
-        }
-        var tip = tipPercentage * cost
-        if (binding.roundUpSwitch.isChecked) {
-            tip = kotlin.math.ceil(tip)
-        }
-        val formattedTip = NumberFormat.getCurrencyInstance().format(tip)
-        binding.tipResult.text = getString(R.string.tip_amount, formattedTip)
-    }
+//    @SuppressLint("StringFormatInvalid")
+//    private fun calculateTip() {
+//        val stringInTextField = binding.costOfService.text.toString()
+//        if (stringInTextField.isEmpty()) {
+//            binding.tipResult.text = ""
+//            return
+//        }
+//        val cost = stringInTextField.toDouble()
+//        val tipPercentage = when (binding.tipOptions.checkedRadioButtonId) {
+//            R.id.option_twenty_percent -> 0.20
+//            R.id.option_eighteen_percent -> 0.18
+//            else -> 0.15
+//        }
+//        var tip = tipPercentage * cost
+//        if (binding.roundUpSwitch.isChecked) {
+//            tip = kotlin.math.ceil(tip)
+//        }
+//        val formattedTip = NumberFormat.getCurrencyInstance().format(tip)
+//        binding.tipResult.text = getString(R.string.tip_amount, formattedTip)
+//    }
 }
 
 //@Composable
