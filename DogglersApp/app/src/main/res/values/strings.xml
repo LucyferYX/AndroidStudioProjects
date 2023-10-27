@@ -24,4 +24,7 @@
     <string name="age">Age: 7</string>
     <string name="hobbies">Hobbies: Sunbathing</string>
     <string name="name">Tzeitel</string>
+    <string name="name2">Leroy</string>
+    <string name="age2">Age: 4</string>
+    <string name="hobbies2">Hobbies: sleeping in dangerous places</string>
 </resources>
