@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] /Users/liene.krista.neimane/.gradle/caches/transforms-3/c054bb750c1807a96a89d07cee280482/transformed/databinding-adapters-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] /Users/liene.krista.neimane/.gradle/caches/transforms-3/bf3e783cdd26fb977bd0fa1ecf3dee28/transformed/jetified-databinding-ktx-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] /Users/liene.krista.neimane/.gradle/caches/transforms-3/fba105d37e8436789a59aa356688ce5e/transformed/databinding-runtime-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/3b7d56dc57a02d4d71136b91e6f7cd44/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.7.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/0bfca496336b9620d4ebbccda5315321/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/liene.krista.neimane/.gradle/caches/transforms-3/2fa6a0acb618626ce8d4af930a9a1570/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/8c938a7be9c685fa820d54fda87c6d13/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/3d0c835797409dc2bbec42ecad94f3b4/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/887f4feae6e4816586dd67ee79081038/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/liene.krista.neimane/.gradle/caches/transforms-3/891da35d11d302690b8ff90eff72f7c2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/4ae7fbb461f269a01f936f847b35dc0a/transformed/jetified-activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/ef3291ca7259fe97a11662c3ef1f277a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/275197d9721c36c6cc68700595d58141/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/eb2538a76944bfc2a355222a6b27b8b9/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/f8bf391a22280563fcab609b64db410c/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/9cf0d1720c923159958e5636ef8811cf/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/43ffec72d4e1c38371817feb58eaef6f/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/aa242dfca49ccf84975f116a944e5304/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/74d09f630ee5aa6b57fc1e8bcdc226fb/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d082eaeb5fb727d167cd99ed92bfaf09/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/6b38c60be6d677e6ba3b8c8bab1cfee6/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/6205f5878f1e453904f5c0a77d97c41d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/fd6a99e6cb61f76c9e04ae1e8feede59/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/9ca530504732ecc4e22d98df6f269e9c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/ea192fe739f5410e0591b29461b26f51/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/30e03099ad1d7f0e88917d5ce45f028e/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7c015f27098011a91e0cf7ed9a5cac6d/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/6dbe348fcc00c168fd92be45f3e08055/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/liene.krista.neimane/.gradle/caches/transforms-3/c1c55ae1df40542a844ad33a9db5b30d/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/ad1d57655caa502f522c3c567e3321db/transformed/jetified-lifecycle-service-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d24744df2e810ccb9643171561b6850b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/eb5f62326e4d5fbdde2fef0e4501da48/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/8ee3e158d7a2fa46c656a6519d81e92e/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7c59f8e2c6432e65a94d1cfab7168b59/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/b9f85f0aea6bc84f2bd06d74714b0bbb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7420e94bd91d2b31fd4d80b463c7a774/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/b9357998fc81d3481fe3ca3925b64fd4/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/47fd541d80a8f4b11470375927562663/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/2ce65d4348844c7373fdd6eb5bebb1de/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7f92a8098e7b3eff2a57cf2cc6ad0bce/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/78572851236954fc612f8d43d40a4574/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d518207e561fa105472f076230d179e1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/46b18e6c5eb4079bf55a1fb7ac415e7f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/92e04035c26d240f957c4a98d225cc08/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/e617b2b4b83907e4140729c80d45b5c3/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+	package
+		INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:19:5-34:19
+MERGED from [com.google.android.material:material:1.7.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/0bfca496336b9620d4ebbccda5315321/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/0bfca496336b9620d4ebbccda5315321/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/liene.krista.neimane/.gradle/caches/transforms-3/2fa6a0acb618626ce8d4af930a9a1570/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/liene.krista.neimane/.gradle/caches/transforms-3/2fa6a0acb618626ce8d4af930a9a1570/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.8.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7c015f27098011a91e0cf7ed9a5cac6d/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7c015f27098011a91e0cf7ed9a5cac6d/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/6dbe348fcc00c168fd92be45f3e08055/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/6dbe348fcc00c168fd92be45f3e08055/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d24744df2e810ccb9643171561b6850b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d24744df2e810ccb9643171561b6850b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/2ce65d4348844c7373fdd6eb5bebb1de/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/2ce65d4348844c7373fdd6eb5bebb1de/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7c015f27098011a91e0cf7ed9a5cac6d/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:23:9-61
+	android:icon
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:21:9-50
+	android:allowBackup
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:26:9-33:20
+	android:exported
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:26:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] /Users/liene.krista.neimane/.gradle/caches/transforms-3/c054bb750c1807a96a89d07cee280482/transformed/databinding-adapters-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] /Users/liene.krista.neimane/.gradle/caches/transforms-3/c054bb750c1807a96a89d07cee280482/transformed/databinding-adapters-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] /Users/liene.krista.neimane/.gradle/caches/transforms-3/bf3e783cdd26fb977bd0fa1ecf3dee28/transformed/jetified-databinding-ktx-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] /Users/liene.krista.neimane/.gradle/caches/transforms-3/bf3e783cdd26fb977bd0fa1ecf3dee28/transformed/jetified-databinding-ktx-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] /Users/liene.krista.neimane/.gradle/caches/transforms-3/fba105d37e8436789a59aa356688ce5e/transformed/databinding-runtime-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] /Users/liene.krista.neimane/.gradle/caches/transforms-3/fba105d37e8436789a59aa356688ce5e/transformed/databinding-runtime-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/3b7d56dc57a02d4d71136b91e6f7cd44/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/3b7d56dc57a02d4d71136b91e6f7cd44/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/0bfca496336b9620d4ebbccda5315321/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/0bfca496336b9620d4ebbccda5315321/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/liene.krista.neimane/.gradle/caches/transforms-3/2fa6a0acb618626ce8d4af930a9a1570/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/liene.krista.neimane/.gradle/caches/transforms-3/2fa6a0acb618626ce8d4af930a9a1570/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/8c938a7be9c685fa820d54fda87c6d13/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/8c938a7be9c685fa820d54fda87c6d13/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/3d0c835797409dc2bbec42ecad94f3b4/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/3d0c835797409dc2bbec42ecad94f3b4/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/887f4feae6e4816586dd67ee79081038/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/887f4feae6e4816586dd67ee79081038/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/liene.krista.neimane/.gradle/caches/transforms-3/891da35d11d302690b8ff90eff72f7c2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/liene.krista.neimane/.gradle/caches/transforms-3/891da35d11d302690b8ff90eff72f7c2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/4ae7fbb461f269a01f936f847b35dc0a/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/4ae7fbb461f269a01f936f847b35dc0a/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/ef3291ca7259fe97a11662c3ef1f277a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/ef3291ca7259fe97a11662c3ef1f277a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/275197d9721c36c6cc68700595d58141/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/275197d9721c36c6cc68700595d58141/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/eb2538a76944bfc2a355222a6b27b8b9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/eb2538a76944bfc2a355222a6b27b8b9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/f8bf391a22280563fcab609b64db410c/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/f8bf391a22280563fcab609b64db410c/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/9cf0d1720c923159958e5636ef8811cf/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/9cf0d1720c923159958e5636ef8811cf/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/43ffec72d4e1c38371817feb58eaef6f/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/43ffec72d4e1c38371817feb58eaef6f/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/aa242dfca49ccf84975f116a944e5304/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/aa242dfca49ccf84975f116a944e5304/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/74d09f630ee5aa6b57fc1e8bcdc226fb/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/74d09f630ee5aa6b57fc1e8bcdc226fb/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d082eaeb5fb727d167cd99ed92bfaf09/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d082eaeb5fb727d167cd99ed92bfaf09/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/6b38c60be6d677e6ba3b8c8bab1cfee6/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/6b38c60be6d677e6ba3b8c8bab1cfee6/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/6205f5878f1e453904f5c0a77d97c41d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/6205f5878f1e453904f5c0a77d97c41d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/fd6a99e6cb61f76c9e04ae1e8feede59/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/fd6a99e6cb61f76c9e04ae1e8feede59/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/9ca530504732ecc4e22d98df6f269e9c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/9ca530504732ecc4e22d98df6f269e9c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/ea192fe739f5410e0591b29461b26f51/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/ea192fe739f5410e0591b29461b26f51/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/30e03099ad1d7f0e88917d5ce45f028e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/30e03099ad1d7f0e88917d5ce45f028e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7c015f27098011a91e0cf7ed9a5cac6d/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7c015f27098011a91e0cf7ed9a5cac6d/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/6dbe348fcc00c168fd92be45f3e08055/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/6dbe348fcc00c168fd92be45f3e08055/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/liene.krista.neimane/.gradle/caches/transforms-3/c1c55ae1df40542a844ad33a9db5b30d/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/liene.krista.neimane/.gradle/caches/transforms-3/c1c55ae1df40542a844ad33a9db5b30d/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/ad1d57655caa502f522c3c567e3321db/transformed/jetified-lifecycle-service-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/ad1d57655caa502f522c3c567e3321db/transformed/jetified-lifecycle-service-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d24744df2e810ccb9643171561b6850b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d24744df2e810ccb9643171561b6850b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/eb5f62326e4d5fbdde2fef0e4501da48/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/eb5f62326e4d5fbdde2fef0e4501da48/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/8ee3e158d7a2fa46c656a6519d81e92e/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/8ee3e158d7a2fa46c656a6519d81e92e/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7c59f8e2c6432e65a94d1cfab7168b59/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7c59f8e2c6432e65a94d1cfab7168b59/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/b9f85f0aea6bc84f2bd06d74714b0bbb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/b9f85f0aea6bc84f2bd06d74714b0bbb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7420e94bd91d2b31fd4d80b463c7a774/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7420e94bd91d2b31fd4d80b463c7a774/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/b9357998fc81d3481fe3ca3925b64fd4/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/b9357998fc81d3481fe3ca3925b64fd4/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/47fd541d80a8f4b11470375927562663/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/47fd541d80a8f4b11470375927562663/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/2ce65d4348844c7373fdd6eb5bebb1de/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/2ce65d4348844c7373fdd6eb5bebb1de/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7f92a8098e7b3eff2a57cf2cc6ad0bce/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/7f92a8098e7b3eff2a57cf2cc6ad0bce/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/78572851236954fc612f8d43d40a4574/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/78572851236954fc612f8d43d40a4574/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d518207e561fa105472f076230d179e1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d518207e561fa105472f076230d179e1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/46b18e6c5eb4079bf55a1fb7ac415e7f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/46b18e6c5eb4079bf55a1fb7ac415e7f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/92e04035c26d240f957c4a98d225cc08/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/92e04035c26d240f957c4a98d225cc08/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/e617b2b4b83907e4140729c80d45b5c3/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/e617b2b4b83907e4140729c80d45b5c3/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liene.krista.neimane/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d24744df2e810ccb9643171561b6850b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d24744df2e810ccb9643171561b6850b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/2ce65d4348844c7373fdd6eb5bebb1de/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/2ce65d4348844c7373fdd6eb5bebb1de/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/liene.krista.neimane/.gradle/caches/transforms-3/316c2cb85389735d89589d0dd73bd81e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d24744df2e810ccb9643171561b6850b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d24744df2e810ccb9643171561b6850b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/liene.krista.neimane/.gradle/caches/transforms-3/d24744df2e810ccb9643171561b6850b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
